@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#effa031f</color>
+    <color name="colorPrimaryDark">#fa030f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    //regis layout
+
+    <color name="buttonSignin">#fdfa5064</color>
+    <color name="backRegis">#7d4296</color>
+    <color name="backcard">#f7fafa</color>
+    <color name="logincard">#f7efebeb</color>
+
+</resources>
